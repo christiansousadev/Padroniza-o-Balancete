@@ -21,7 +21,7 @@ Automação contábil desenvolvida em Python para padronização de balancetes e
 pyinstaller --noconsole --onefile --collect-all customtkinter --add-data "icon.ico;." --icon="icon.ico" --name "Conversor Balancete" app.py
 
 # projeto no github
-git init
-git add .
-git commit -m "feat: comentários"
-git branch -M main
+* git init
+* git add .
+* git commit -m "feat: inicio do projeto"
+* git push origin main
