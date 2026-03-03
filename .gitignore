@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# pyinstaller
+build/
+dist/
+*.spec
+
+# excel/temp
+~$*
+*.log
